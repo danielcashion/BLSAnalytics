@@ -7,3 +7,7 @@ There were a few Jupyter Notebooks that `read_csv` files (static and should neve
 ## APIs, GITHUB Secrets, etc.
 
 I have interviewed many people over my life. Passwords and private credentials are all over developers' code. If you think that your org is secure, I would run a scan for 'pwd' or 'token' in your production/development repos. You will likely be shocked.
+
+### GITHUB Actions
+
+I do not think the repo is in need of automated scripting at this point. Maybe in the future, but for now, not needed.
