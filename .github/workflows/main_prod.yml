@@ -1,0 +1,13 @@
+name: BLS Analytics Workflow
+
+#on:
+#  schedule:
+#  - cron:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: execute py scripts
+        env:
+          BLS_URL_ts_url: ${{ secrets.BLS_URL_ts_URL}}
