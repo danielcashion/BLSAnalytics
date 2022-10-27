@@ -1,0 +1,234 @@
+[
+    {
+      "AP": "BD",
+      "Average Price Data": "Business Employment Dynamics"
+    },
+    {
+      "AP": "BG",
+      "Average Price Data": "Collective Bargaining-State and Local Government"
+    },
+    {
+      "AP": "BP",
+      "Average Price Data": "Collective Bargaining-Private Sector"
+    },
+    {
+      "AP": "CC",
+      "Average Price Data": "Employer Costs for Employee Compensation (SIC 1986-2003)"
+    },
+    {
+      "AP": "CD",
+      "Average Price Data": "Occupational Injuries and Illness - Characteristics Data (SIC)"
+    },
+    {
+      "AP": "CE",
+      "Average Price Data": "Employment, Hours, and Earnings-National (NAICS)"
+    },
+    {
+      "AP": "CF",
+      "Average Price Data": "Census of Fatal Occupational Injuries (1992-2002)"
+    },
+    {
+      "AP": "CH",
+      "Average Price Data": "Nonfatal cases involving days away from work: selected characteristics"
+    },
+    {
+      "AP": "CI",
+      "Average Price Data": "Employment Cost Index (NAICS)"
+    },
+    {
+      "AP": "CM",
+      "Average Price Data": "Employer Costs for Employee Compensation (NAICS)"
+    },
+    {
+      "AP": "CS",
+      "Average Price Data": "Occupational Injuries and Illnesses - Characteristics Data"
+    },
+    {
+      "AP": "CU",
+      "Average Price Data": "Consumer Price Index-All Urban Consumers (Current Series)"
+    },
+    {
+      "AP": "CW",
+      "Average Price Data": "Consumer Price Index-Urban Wage Earners and Clerical Workers (Curr"
+    },
+    {
+      "AP": "CX",
+      "Average Price Data": "Consumer Expenditure Survey"
+    },
+    {
+      "AP": "EB",
+      "Average Price Data": "Employee Benefits Survey (1979 - 2006)"
+    },
+    {
+      "AP": "EC",
+      "Average Price Data": "Employment Cost Index (SIC 1975 - 2005)"
+    },
+    {
+      "AP": "EE",
+      "Average Price Data": "Employment, Hours, and Earnings-National (SIC)"
+    },
+    {
+      "AP": "EI",
+      "Average Price Data": "International Price Index"
+    },
+    {
+      "AP": "FI",
+      "Average Price Data": "Census of Fatal Occupational Injuries"
+    },
+    {
+      "AP": "FM",
+      "Average Price Data": "Marital and Family Labor Force Statistics"
+    },
+    {
+      "AP": "FW",
+      "Average Price Data": "Census of Fatal Occupational Injuries"
+    },
+    {
+      "AP": "GG",
+      "Average Price Data": "Green Goods and Services"
+    },
+    {
+      "AP": "GP",
+      "Average Price Data": "Geographic Profile"
+    },
+    {
+      "AP": "HC",
+      "Average Price Data": "Occupational Injuries and Illness - Characteristics Data (NAICS)"
+    },
+    {
+      "AP": "HS",
+      "Average Price Data": "Occupational Injury and Illness Rates (based on 1972 SIC codes)"
+    },
+    {
+      "AP": "II",
+      "Average Price Data": "Occupational Injuries and Illnesses Industry Data"
+    },
+    {
+      "AP": "IN",
+      "Average Price Data": "International Labor Statistics"
+    },
+    {
+      "AP": "IP",
+      "Average Price Data": "Industry Productivity and Costs"
+    },
+    {
+      "AP": "JL",
+      "Average Price Data": "Job Openings and Labor Turnover Survey (SIC)"
+    },
+    {
+      "AP": "JT",
+      "Average Price Data": "Job Openings and Labor Turnover Survey (NAICS)"
+    },
+    {
+      "AP": "LA",
+      "Average Price Data": "Local Area Unemployment Statistics"
+    },
+    {
+      "AP": "LE",
+      "Average Price Data": "Weekly and Hourly Earnings Data from the Current Population Survey"
+    },
+    {
+      "AP": "LI",
+      "Average Price Data": "Department Store Inventory Price Index"
+    },
+    {
+      "AP": "LN",
+      "Average Price Data": "Labor Force Statistics from the Current Population Survey (NAICS)"
+    },
+    {
+      "AP": "LU",
+      "Average Price Data": "Union Affiliation Data from the Current Population Survey"
+    },
+    {
+      "AP": "ML",
+      "Average Price Data": "Mass Layoff Statistics"
+    },
+    {
+      "AP": "MP",
+      "Average Price Data": "Major Sector Multifactor Productivity Index"
+    },
+    {
+      "AP": "MU",
+      "Average Price Data": "Consumer Price Index-All Urban Consumers (Old Series)"
+    },
+    {
+      "AP": "MW",
+      "Average Price Data": "Consumer Price Index-Urban Wage Earners and Clerical Workers (Old"
+    },
+    {
+      "AP": "NB",
+      "Average Price Data": "National Compensation Survey"
+    },
+    {
+      "AP": "NC",
+      "Average Price Data": "National Compensation Survey (SIC 1997-2006)"
+    },
+    {
+      "AP": "ND",
+      "Average Price Data": "Producer Price Index Revision-Discontinued Series (NAICS)"
+    },
+    {
+      "AP": "NL",
+      "Average Price Data": "National Longitudinal Survey"
+    },
+    {
+      "AP": "NW",
+      "Average Price Data": "National Compensation Survey (NAICS)"
+    },
+    {
+      "AP": "OE",
+      "Average Price Data": "Occupation Employment Statistics"
+    },
+    {
+      "AP": "OR",
+      "Average Price Data": "Occupational Requirements Survey"
+    },
+    {
+      "AP": "PC",
+      "Average Price Data": "Producer Price Index Revision-Current Series"
+    },
+    {
+      "AP": "PD",
+      "Average Price Data": "Producer Price Index Revision-Discontinued Series (SIC)"
+    },
+    {
+      "AP": "PR",
+      "Average Price Data": "Major Sector Productivity and Costs Index"
+    },
+    {
+      "AP": "SA",
+      "Average Price Data": "State and Area Employment, Hours, and Earnings (SIC)"
+    },
+    {
+      "AP": "SH",
+      "Average Price Data": "Occupational Injury and Illness Rates (based on 1987 SIC codes)"
+    },
+    {
+      "AP": "SI",
+      "Average Price Data": "Occupational Injury and Illness Rates (2002 data)"
+    },
+    {
+      "AP": "SM",
+      "Average Price Data": "State and Area Employment, Hours, and Earnings (NAICS)"
+    },
+    {
+      "AP": "SU",
+      "Average Price Data": "Chained CPI-All Urban Consumers"
+    },
+    {
+      "AP": "WD",
+      "Average Price Data": "Producer Price Index Commodity - Discontinued Series"
+    },
+    {
+      "AP": "WM",
+      "Average Price Data": "Modeled Wage Estimates"
+    },
+    {
+      "AP": "WP",
+      "Average Price Data": "Producer Price Index - Commodities"
+    },
+    {
+      "AP": "WS",
+      "Average Price Data": "Work Stoppage Data"
+    }
+  ]
